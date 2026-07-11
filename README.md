@@ -26,19 +26,23 @@ The goal is to build strong problem-solving skills while maintaining consistency
 
 DSA-Java
 │
-├── Arrays/
-├── Strings/
-├── Slow & Fast Pointers/
-├── Math on Arrays/
-├── Prefix Sum/
-├── Sliding Window/
-├── Binary Search/
-├── Linked List/
-├── Stack/
-├── Queue/
-├── Trees/
-├── Graphs/
-└── Dynamic Programming/
+├── Arrays
+├── Strings
+├── Sorting
+├── Basic Maths
+├── Recursion
+├── Hashing
+├── Linked List
+├── Stack
+├── Queue
+├── Binary Search
+├── Trees
+├── Heaps
+├── Greedy
+├── Backtracking
+├── Graphs
+├── Dynamic Programming
+└── Advance DSA Algorithms
 
 
 ---
